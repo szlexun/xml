@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string><![CDATA[http://cshare.lexun.com/source/ddz/hl_lordcard-1.0.ipa]]></string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://lxgame.lexun.com/Landlord/activity/images/logo.png</string>
+               </dict>
+	       <dict>
+                   <key>kind</key>
+                   <string>full-size-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://lxgame.lexun.com/Landlord/activity/images/logo.png</string>
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>com.lexun.game.lordcard</string>
+               <key>bundle-version</key>
+               <string>1.0</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string><![CDATA[笑傲斗地主]]></string>
+               <key>title</key>
+               <string><![CDATA[笑傲斗地主,请确保您的设备已越狱。]]></string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
